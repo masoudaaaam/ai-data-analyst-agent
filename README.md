@@ -43,5 +43,5 @@ streamlit run app/main.py
 ```
 ## Demo
 
-https://github.com/masoudaaam/ai-data-analyst-agent/blob/main/demo.mp4
+https://github.com/masoudaaam/ai-data-analyst-agent/assets/demo.mp4
 
