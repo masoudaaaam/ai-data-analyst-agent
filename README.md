@@ -44,4 +44,4 @@ streamlit run app/main.py
 
 ## Demo
 
-See the demo in the LinkedIn post.
+https://github.com/masoudaaam/ai-data-analyst-agent/blob/main/aiagent11-ezgif.com-gif-to-mp4-converter.mp4
