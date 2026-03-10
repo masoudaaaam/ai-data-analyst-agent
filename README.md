@@ -41,7 +41,7 @@ Run the application
 ```bash
 streamlit run app/main.py
 ```
-
 ## Demo
 
-https://github.com/masoudaaam/ai-data-analyst-agent/blob/main/aiagent11-ezgif.com-gif-to-mp4-converter.mp4
+https://github.com/masoudaaam/ai-data-analyst-agent/blob/main/demo.mp4
+
